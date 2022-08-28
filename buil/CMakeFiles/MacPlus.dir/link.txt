@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MacPlus.dir/src/main.cpp.o CMakeFiles/MacPlus.dir/src/Bus.cpp.o CMakeFiles/MacPlus.dir/src/CPU.cpp.o -o MacPlus 

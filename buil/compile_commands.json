@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/google0101/Documents/MacPlus/buil",
+  "command": "/usr/bin/c++  -I/home/google0101/Documents/MacPlus/src -g -std=gnu++2a -o CMakeFiles/MacPlus.dir/src/main.cpp.o -c /home/google0101/Documents/MacPlus/src/main.cpp",
+  "file": "/home/google0101/Documents/MacPlus/src/main.cpp"
+},
+{
+  "directory": "/home/google0101/Documents/MacPlus/buil",
+  "command": "/usr/bin/c++  -I/home/google0101/Documents/MacPlus/src -g -std=gnu++2a -o CMakeFiles/MacPlus.dir/src/Bus.cpp.o -c /home/google0101/Documents/MacPlus/src/Bus.cpp",
+  "file": "/home/google0101/Documents/MacPlus/src/Bus.cpp"
+},
+{
+  "directory": "/home/google0101/Documents/MacPlus/buil",
+  "command": "/usr/bin/c++  -I/home/google0101/Documents/MacPlus/src -g -std=gnu++2a -o CMakeFiles/MacPlus.dir/src/CPU.cpp.o -c /home/google0101/Documents/MacPlus/src/CPU.cpp",
+  "file": "/home/google0101/Documents/MacPlus/src/CPU.cpp"
+}
+]

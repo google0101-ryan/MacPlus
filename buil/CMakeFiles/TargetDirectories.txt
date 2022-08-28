@@ -1,0 +1,3 @@
+/home/google0101/Documents/MacPlus/buil/CMakeFiles/MacPlus.dir
+/home/google0101/Documents/MacPlus/buil/CMakeFiles/edit_cache.dir
+/home/google0101/Documents/MacPlus/buil/CMakeFiles/rebuild_cache.dir
